@@ -1,4 +1,4 @@
-# reactLecture3A_2
+# reactLecture3A_2 - Use of <code>TextInput</code> component.
 Demo for use of text inputs<br>
 The full aplication is located in the folder <code> cardEditor</code><br>
 The <code>node_modules</code> were deleted, remember to run
